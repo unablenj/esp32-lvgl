@@ -1,0 +1,23 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.inc": "c",
+    "string_view": "c",
+    "regex": "c",
+    "array": "c",
+    "string": "c",
+    "bitset": "c",
+    "initializer_list": "c",
+    "utility": "c",
+    "ili9488.h": "c",
+    "sdkconfig.h": "c",
+    "spi.h": "c",
+    "esp_spi_flash.h": "c",
+    "lvgl_helpers.h": "c",
+    "lvgl.h": "c",
+    "lv_port_disp.h": "c"
+  },
+  "idf.flashType": "UART",
+  "idf.portWin": "COM3",
+  "idf.adapterTargetName": "esp32"
+}

@@ -1,0 +1,4 @@
+idf_component_register(SRCS "appmain.c"
+                    INCLUDE_DIRS "."
+                    "../components/lvgl"
+                    PRIV_REQUIRES driver user_mid)
